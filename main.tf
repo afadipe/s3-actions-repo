@@ -1,3 +1,3 @@
 module "s3" {
-  source = "git@github.com:afadipe/s3-backend-repo.git//s3-module?ref=v1.0.1"
+  source = "git@github.com:afadipe/terraform-s3-backend.git//s3-module?ref=v1.0.1"
 }
